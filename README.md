@@ -1,4 +1,4 @@
-# Animated-Website-Landing-page
+# Animated-Website-Landing-Page
 A simple animated website landing page designed using HTML and CSS.
 
 ## Technologies Used
